@@ -1,7 +1,7 @@
 {
     "needsErrorInfo": false,
     "mobileBottomRow": 6,
-    "widgetName": "Text2",
+    "widgetName": "Text2Copy",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -9,8 +9,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 2,
-    "bottomRow": 7,
+    "topRow": 57,
+    "bottomRow": 62,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 11.578125,
     "dynamicTriggerPathList": [],
-    "leftColumn": 3,
+    "leftColumn": 0,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -28,19 +28,19 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Upload Album 💽",
+    "text": "Upload Song 🎵",
     "key": "753od7smak",
     "isDeprecated": false,
-    "rightColumn": 37,
+    "rightColumn": 32,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "2np1mswst7",
+    "widgetId": "w7qy0xj2zr",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "bercd9uccb",
+    "parentId": "t9unnpm7w2",
     "tags": [
         "Suggested",
         "Content"
@@ -49,11 +49,11 @@
     "isLoading": false,
     "mobileTopRow": 2,
     "responsiveBehavior": "fill",
-    "originalTopRow": 2,
+    "originalTopRow": 57,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 3,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 7,
+    "originalBottomRow": 62,
     "fontSize": "1.875rem",
     "minDynamicHeight": 4
 }
