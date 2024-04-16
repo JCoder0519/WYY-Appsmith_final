@@ -10,7 +10,7 @@
         "label"
     ],
     "topRow": 11,
-    "bottomRow": 18,
+    "bottomRow": 24,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 20.234375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 19,
+    "leftColumn": 13,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -31,8 +31,8 @@
     "text": "WOW-YIN-YANG HOME PAGE ",
     "key": "w0dhmi79zg",
     "isDeprecated": false,
-    "rightColumn": 45,
-    "textAlign": "LEFT",
+    "rightColumn": 54,
+    "textAlign": "CENTER",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "wkphrip24t",
     "minWidth": 450,
@@ -53,7 +53,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 22,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 18,
+    "originalBottomRow": 24,
     "fontSize": "3rem",
     "minDynamicHeight": 4
 }
